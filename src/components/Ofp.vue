@@ -41,11 +41,7 @@
       />
       Балл: {{ event.points }}
     </div>
-  
-    <div style="margin-top: 30px; font-size: 18px; font-weight: bold;">
-      Общий результат: {{ totalPoints }} очков
-    </div>
-  </div>
+     </div>
 </div>
 </template>
 
